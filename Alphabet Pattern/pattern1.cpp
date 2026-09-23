@@ -17,6 +17,7 @@ int main(){
     cout<<"How many rows do you want ?"<<endl;
     cin>>rows;
     pattern1(rows);
+    return 0;
 }
 // Pattern :-
 //  A
