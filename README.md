@@ -2,11 +2,11 @@
 A collection of basic programming and logical problems focused on building strong problem-solving skills, programming fundamentals, and logical thinking.
 
 Solutions uploaded :-
-1. Basic Maths
-  a. Count the number of digits
-  b. Print all divisors
-  c. Reverse of a given number
-  d. Palindrome Number
-  e. Armstrong number
+* Basic Maths 
+  1. Count the number of digits
+  2. Print all divisors
+  3. Reverse of a given number
+  4. Palindrome Number
+  5. Armstrong number
 
-2. Alphabet Patterns 
+* Alphabet Patterns 
