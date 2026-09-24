@@ -10,3 +10,4 @@ Solutions uploaded :-
   5. Armstrong number
 
 * Alphabet Patterns 
+  1. Pattern 1
