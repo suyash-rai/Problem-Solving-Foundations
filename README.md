@@ -12,3 +12,4 @@ Solutions uploaded :-
 * Alphabet Patterns 
   1. Pattern 1
   2. Pattern 2
+  3. Pattern 3
